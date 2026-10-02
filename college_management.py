@@ -90,7 +90,7 @@ try:
     connection = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="2008sakshiGupta",
+        password="Enter your password here",
         database="College_management"
     )
 
